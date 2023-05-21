@@ -1,0 +1,19 @@
+[{"price":"30","name":"matrix","genre":"action","showtimes":[{"tickets":80,"time":"[{\"tickets\":80,\"time\":\"10:00 AM Mar26\"}]"},{"tickets":50,"time":"[{\"tickets\":50,\"time\":\"02:00 PM Apr05\"}]"},{"tickets":40,"time":"[{\"tickets\":40,\"time\":\"07:00 PM Mar27\"}]"}],"descriptions":"this is action moive","poster":"images\\matrix.jpg"},
+{"price":"30","name":"constatntine","genre":"horror","showtimes":[{"tickets":80,"time":"[{\"tickets\":80,\"time\":\"10:00 AM Oct28\"}]"},{"tickets":50,"time":"[{\"tickets\":50,\"time\":\"02:00 PM Apr14\"}]"},{"tickets":40,"time":"[{\"tickets\":40,\"time\":\"07:00 PM Mar29\"}]"}],"descriptions":"this is horror moive","poster":"images\\constantine.jpg"},
+{"price":"15","name":"nemo","genre":"animation","showtimes":[{"tickets":70,"time":"[{\"tickets\":80,\"time\":\"10:00 PM Mar28\"}]"},{"tickets":70,"time":"[{\"tickets\":50,\"time\":\"08:00 PM Apr09\"}]"}],"descriptions":"this is fish moive","poster":"images\\nemo.jpg"},
+{"price":"14","name":"harrypotter","genre":"action","showtimes":[{"tickets":60,"time":"[{\"tickets\":80,\"time\":\"06:00 PM May14\"}]"},{"tickets":63,"time":"[{\"tickets\":50,\"time\":\"02:00 PM Apr23\"}]"},{"tickets":68,"time":"[{\"tickets\":40,\"time\":\"07:00 PM Apr27\"}]"}],"descriptions":"this is magic moive","poster":"images\\harrypotter.jpg"},
+{"price":"10","name":"jigsaw","genre":"horror","showtimes":[{"tickets":80,"time":"[{\"tickets\":80,\"time\":\"09:00 AM Dec26\"}]"},{"tickets":50,"time":"[{\"tickets\":50,\"time\":\"05:00 PM Apr05\"}]"},{"tickets":40,"time":"[{\"tickets\":40,\"time\":\"07:00 PM Mar12\"}]"}],"descriptions":"this is saw moive","poster":"images\\jigsaw.jpg"},
+{"price":"8","name":"ipman","genre":"action","showtimes":[{"tickets":80,"time":"[{\"tickets\":80,\"time\":\"06:00 PM Jan26\"}]"},{"tickets":50,"time":"[{\"tickets\":50,\"time\":\"06:00 PM Feb05\"}]"},{"tickets":40,"time":"[{\"tickets\":40,\"time\":\"07:00 PM Mar15\"}]"}],"descriptions":"this is kingfu moive","poster":"images\\ipman.jpg"},
+{"price":"14","name":"jumanji","genre":"comedy","showtimes":[{"tickets":80,"time":"[{\"tickets\":80,\"time\":\"11:00 PM Nov26\"}]"},{"tickets":50,"time":"[{\"tickets\":50,\"time\":\"07:00 PM Sep05\"}]"},{"tickets":40,"time":"[{\"tickets\":40,\"time\":\"06:00 PM Mar19\"}]"}],"descriptions":"this is adventrue moive","poster":"images\\jumanji.jpg"},
+{"price":"17","name":"thecollection","genre":"horror","showtimes":[{"tickets":80,"time":"[{\"tickets\":80,\"time\":\"10:00 AM Mar26\"}]"},{"tickets":50,"time":"[{\"tickets\":50,\"time\":\"10:00 PM Apr05\"}]"},{"tickets":40,"time":"[{\"tickets\":40,\"time\":\"07:00 PM Mar27\"}]"}],"descriptions":"this is killing moive","poster":"images\\thecollection.jpg"},
+
+
+{"price":"30","name":"mask","genre":"comedy","showtimes":[{"tickets":80,"time":"[{\"tickets\":80,\"time\":\"10:00 AM Aug26\"}]"},{"tickets":20,"time":"[{\"tickets\":50,\"time\":\"08:00 PM Apr05\"}]"},{"tickets":40,"time":"[{\"tickets\":40,\"time\":\"05:00 PM Mar27\"}]"}],"descriptions":"this is jim's moive","poster":"images\\mask.jpg"},
+
+
+{"price":"15","name":"mrbean","genre":"comedy","showtimes":[{"tickets":70,"time":"[{\"tickets\":80,\"time\":\"10:00 AM Aug26\"}]"},{"tickets":30,"time":"[{\"tickets\":50,\"time\":\"08:00 PM Apr17\"}]"},{"tickets":40,"time":"[{\"tickets\":40,\"time\":\"11:00 PM Mar27\"}]"}],"descriptions":"this is mr's moive","poster":"images\\mrbean.jpg"},
+
+
+{"price":"18","name":"johnwick","genre":"action","showtimes":[{"tickets":60,"time":"[{\"tickets\":80,\"time\":\"10:00 AM Aug26\"}]"},{"tickets":50,"time":"[{\"tickets\":50,\"time\":\"12:00 PM Apr29\"}]"},{"tickets":40,"time":"[{\"tickets\":40,\"time\":\"05:00 PM Mar27\"}]"}],"descriptions":"this is john's moive","poster":"images\\johnwick.jpg"},
+
+{"price":"20","name":"shrek","genre":"animation","showtimes":[{"tickets":30,"time":"[{\"tickets\":30,\"time\":\"10:00 PM Mar27\"}]"}],"descriptions":"the green shrek","poster":"images\\shrek.jpg"}]
