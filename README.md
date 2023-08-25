@@ -1,3 +1,8 @@
+## Introduction
+
+•	The online booking service allows customers to browse and search for movies they want. Customers can cancel a reservation and modify the ticket options, such as available time slots and rooms. The system will use a user login page that saves the customers' list of purchased tickets and can view their tickets in detail.
+•	A blend of the spiral model and the waterfall incremental approach is used. Each iteration of the project's progression will be validated/verified by the stakeholders.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
